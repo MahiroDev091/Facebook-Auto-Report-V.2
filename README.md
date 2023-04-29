@@ -1,6 +1,6 @@
 # Facebook-Auto-Report-V.2
 Automated FB reporting tool that use cookie to submit report.
-### 🛠 &nbsp;Facebook Auto Report V.2
+### 🔒 &nbsp;Facebook Auto Report V.2
 
 <image src="/screenshots/Screenshot_2023_0428_224451.png">
 
