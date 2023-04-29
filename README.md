@@ -4,11 +4,9 @@ Automated FB reporting tool that use cookie to submit report.
 
 <image src="/screenshots/Screenshot_2023_0428_224451.png">
 
+### 🛠 &nbsp; The script made of:
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 🔥 &nbsp; This powerfull auto report script can take down rp/poser account depend on how many cookies 'cookie.txt' you have.
 
