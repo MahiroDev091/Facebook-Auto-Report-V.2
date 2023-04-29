@@ -2,7 +2,7 @@
 Automated FB reporting tool that use cookie to submit report.
 ### 🛠 &nbsp;Facebook Auto Report V.2
 
-<image src="/screenshot/Screenshot_2023_0428_224451.png">
+<image src="/screenshots/Screenshot_2023_0428_224451.png">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
