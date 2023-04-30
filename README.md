@@ -1,6 +1,7 @@
 # Facebook-Auto-Report-V.2
 Automated FB reporting tool that use cookie to submit report.
-<input type="checkbox" name="Auto Web scraping from server" id="checkbox-id" checked>
+
+- Scraping cookie from server added!
 
 ### 🔒&nbsp;Facebook Auto Report V.2
 
