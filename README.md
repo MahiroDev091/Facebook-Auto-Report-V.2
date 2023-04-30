@@ -16,6 +16,7 @@ Automated FB reporting tool that use cookie to submit report.
 
 ### 📚 &nbsp; Library module used:
 ```python
+• pycryptodome
 • requests
 • BeautifulSoup
 • random
@@ -31,7 +32,7 @@ Automated FB reporting tool that use cookie to submit report.
 ```
 ### 📚 &nbsp; Packaging installment:
 ```python
-pip install requests beautifulsoup4 bs4 mechanize httpx, threading
+pip install pycryptodome requests beautifulsoup4 bs4 mechanize httpx threading
 ```
 ```python
 python3 report_ob.py
