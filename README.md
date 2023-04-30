@@ -36,7 +36,7 @@ Automated FB reporting tool that use cookie to submit report.
 ```
 ### 📚 &nbsp; Packaging installment:
 ```python
-pip install pycryptodome requests beautifulsoup4 bs4 mechanize httpx threading
+pip install pycryptodome requests beautifulsoup4 mechanize sys httpx threading
 ```
 ```python
 python3 report_ob.py
