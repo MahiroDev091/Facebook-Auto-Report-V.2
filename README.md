@@ -8,7 +8,7 @@ Automated FB reporting tool that use cookie to submit report.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-ff0000?style=for-the-badge&logo=python&logoColor=ff0000&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-8B0000?style=for-the-badge&logo=python&logoColor=8B0000&labelColor=282828">
 </div>
 </p>
 
