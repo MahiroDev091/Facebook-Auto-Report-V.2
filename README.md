@@ -23,7 +23,7 @@ Automated FB reporting tool that use cookie to submit report.
 • requests
 • BeautifulSoup
 • random
-• s4
+• bs4
 • json
 • threading
 • http.cookiejar
