@@ -6,9 +6,37 @@ Automated FB reporting tool that use cookie to submit report.
 
 ### 🛠 &nbsp; The script made of:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=EE4B2B">
+</div>
+</p>
 
 🔥 &nbsp; This powerfull auto report script can take down rp/poser account depend on how many cookies 'cookie.txt' you have.
+
+### 📚 &nbsp; Library module used:
+```python
+• requests
+• BeautifulSoup
+• random
+• bs4
+• json
+• threading
+• http.cookiejar
+• mechanize
+• sys
+• asyncio
+• httpx
+• os
+```
+### 📚 &nbsp; Packaging installment:
+```python
+pip install requests beautifulsoup4 bs4 mechanize httpx, threading
+```
+```python
+python3 report_ob.py
+```
+&nbsp; Pip requirements depend on what linux environment your using.
 
 ### 🤝🏻 &nbsp;Contact me to get the script
 
