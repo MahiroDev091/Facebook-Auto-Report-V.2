@@ -8,7 +8,7 @@ Automated FB reporting tool that use cookie to submit report.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=EE4B2B">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=EE4B2B&labelColor=282828">
 </div>
 </p>
 
@@ -19,7 +19,7 @@ Automated FB reporting tool that use cookie to submit report.
 • requests
 • BeautifulSoup
 • random
-• bs4
+• s4
 • json
 • threading
 • http.cookiejar
