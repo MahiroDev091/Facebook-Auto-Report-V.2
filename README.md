@@ -2,7 +2,7 @@
 Automated FB reporting tool that use cookie to submit report.
 
 - Scraping __[cookie](https://submit-cookie.kittydevv346.repl.co)__ from server added!
-- Only tested to pydroid3
+- Only tested to pydroid 3
 
 ### 🔒&nbsp;Facebook Auto Report V.2
 
