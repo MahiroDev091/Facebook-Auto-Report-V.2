@@ -36,7 +36,7 @@ Automated FB reporting tool that use cookie to submit report.
 ```
 ### 📚 &nbsp; Packaging installment:
 ```python
-pip install mechanize bs4 httpx pycryptodome
+pip3 install mechanize bs4 httpx pycryptodome
 ```
 ```python
 python3 report_ob.py
